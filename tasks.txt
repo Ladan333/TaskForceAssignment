@@ -1,0 +1,22 @@
+[
+    {
+        "task": "Walk the dog",
+        "done": true
+    },
+    {
+        "task": "Mow the lawn",
+        "done": false
+    },
+    {
+        "task": "Scrub the floor",
+        "done": false
+    },
+    {
+        "task": "Buy groceries",
+        "done": true
+    },
+    {
+        "task": "Cook dinner",
+        "done": true
+    }
+]
